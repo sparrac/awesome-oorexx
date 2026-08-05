@@ -92,7 +92,8 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
 - [RexxLA (Rexx Language Association)](https://www.rexxla.org/) - Official non-profit organization promoting and supporting Rexx and Open Object Rexx.
 - [RexxLA International Symposium](https://www.rexxla.org/events/) - Annual conference featuring presentations and papers on Rexx, ooRexx, NetRexx, and related technologies.
 - [ooRexx SourceForge Forums](https://sourceforge.net/p/oorexx/discussion/) - Official discussion forums and mailing lists for user support (`oorexx-users`) and core development (`oorexx-devel`).
-- [comp.lang.rexx](https://groups.google.com/g/comp.lang.rexx) - Long-standing Usenet newsgroup for Rexx and ooRexx discussions.
+- [RexxLA Members (Groups.io)](https://rexxla-members.groups.io/g/main) - 
+Mailing list and discussion forum for the Rexx community.
 
 ## Contributing
 
