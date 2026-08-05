@@ -21,12 +21,13 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
   - [Distributions](#distributions)
 - [Resources](#resources)
   - [Documentation](#documentation)
+  - [Community](#community)
 
 ## Core
 
 - [Open Object Rexx](https://www.oorexx.org/index.rsp) - The official open-source implementation of Object Rexx.
   - [SourceForge](https://sourceforge.net/projects/oorexx/)
-  - [GitHub Mirror](https://github.com/ooRexx/ooRexx)
+  - [GitHub mirror](https://github.com/ooRexx/ooRexx)
   
 ## Packages & Tools
 
@@ -41,7 +42,7 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
 
 ### Web
 
-- [RexxHTTP](https://rexx.epbcn.com/rexxhttp/) - CGI framework for developing web applications with ooRexx under Apache HTTP Server.
+- [RexxHTTP](https://rexx.epbcn.com/rexxhttp/) - CGI framework for developing web applications with ooRexx for Apache HTTP Server.
 
 ### Unicode & Internationalization
 
@@ -53,7 +54,7 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
 
 - [ooRexxDoc](https://sourceforge.net/projects/oorexxdoc/files/GA/) - Generates hyperlinked HTML documentation from Rexx and ooRexx source code.
 - [RexxLiterate](https://sourceforge.net/projects/rexxliterate/) - Literate programming and HTML documentation generator for Rexx and ooRexx.
-- [RexxPub](https://rexx.epbcn.com/rexx-parser/doc/rexxpub/) - Publisher framework for generating documentation and reports.
+- [RexxPub](https://rexx.epbcn.com/rexx-parser/doc/rexxpub/) - Publishing framework for generating documentation and reports.
 
 ### Development Tools
 
@@ -73,6 +74,9 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
 ### Distributions
 
 - [net-oo-rexx](https://github.com/RexxLA/net-oo-rexx) - Portable distribution bundling NetRexx, ooRexx, oorexxshell, Rexx Parser, Rexx Debugger, TraceTool and related utilities.
+- [Open Object Rexx for OS/2](https://ecsoft2.org/oorexx-open-object-rexx) - OS/2 binaries.
+- [ooRexx for Android OS](https://ecsoft2.org/oorexx-open-object-rexx) - ooRexx application on rooted Android devices.
+- [Termux package](https://github.com/termux/termux-packages/tree/master/packages/oorexx) - Android package for the Termux environment.
 
 ## Resources
 
@@ -83,9 +87,16 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
   - [GitLab project](https://gitlab.com/dylwi/rexx-references) - Source repository
 - [Rosetta Code (Category: ooREXX)](https://rosettacode.org/wiki/Category:OoRexx) - ooRexx examples on the Rosetta Code programming chrestomathy
 
+### Community
+
+- [RexxLA (Rexx Language Association)](https://www.rexxla.org/) - Official non-profit organization promoting and supporting Rexx and Open Object Rexx.
+- [RexxLA International Symposium](https://www.rexxla.org/events/) - Annual conference featuring presentations and papers on Rexx, ooRexx, NetRexx, and related technologies.
+- [ooRexx SourceForge Forums](https://sourceforge.net/p/oorexx/discussion/) - Official discussion forums and mailing lists for user support (`oorexx-users`) and core development (`oorexx-devel`).
+- [comp.lang.rexx](https://groups.google.com/g/comp.lang.rexx) - Long-standing Usenet newsgroup for Rexx and ooRexx discussions.
+
 ## Contributing
 
-Contributions are welcome! Please ensure new entries:
+Contributions are welcome! Please ensure that new entries:
 
 - are useful to the ooRexx community;
 - include a concise description;

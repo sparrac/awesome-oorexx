@@ -34,6 +34,7 @@ The README follows the standard "awesome" list format with these sections:
   - Distributions
 - Resources
   - Documentation
+  - Community
 
 Links are organized alphabetically within each subsection.
 
