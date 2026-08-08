@@ -29,6 +29,7 @@ The README follows the standard "awesome" list format with these sections:
   - Unicode & Internationalization
   - Documentation Generators
   - Development Tools
+  - Editor Support
   - Language Interoperability
   - Experimental Implementations
   - Distributions
