@@ -16,6 +16,7 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
   - [Unicode & Internationalization](#unicode--internationalization)
   - [Documentation Generators](#documentation-generators)
   - [Development Tools](#development-tools)
+  - [Editor Support](#editor-support)
   - [Language Interoperability](#language-interoperability)
   - [Experimental Implementations](#experimental-implementations)
   - [Distributions](#distributions)
@@ -61,6 +62,15 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
 - [ooRexx Debugger](https://sourceforge.net/projects/oorexxdebugger/) - Graphical debugger for ooRexx applications.
 - [oorexxshell](https://jlfaucher.github.io/executor.master/demos/index.html) - Interactive shell and experimentation environment for ooRexx.
 - [Rexx Parser](https://rexx.epbcn.com/rexx-parser/) - Full Abstract Syntax Tree (AST) parser for Rexx, ooRexx and Executor.
+
+### Editor Support
+
+- [Vim](https://www.vim.org/) - Includes native Rexx/ooRexx syntax highlighting out of the box.
+  - [vim-rexx](https://github.com/vim/vim/blob/master/runtime/syntax/rexx.vim) - Built-in Vim syntax definition file.
+- [Neovim](https://neovim.io/) - Includes native Rexx/ooRexx syntax highlighting out of the box.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Cross-platform Java IDE.
+  - [ooRexx Plugin for IntelliJ IDEA](https://sourceforge.net/projects/bsf4oorexx/files/Sandbox/aseik/ooRexxIDEA/GA/2.2.0/) - Dedicated plugin providing syntax highlighting and project support for ooRexx.
+- [JEdit](https://www.jedit.org/) - Includes native ooRexx syntax highlighting mode out of the box.
 
 ### Language Interoperability
 
