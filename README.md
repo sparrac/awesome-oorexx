@@ -62,6 +62,7 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
 - [ooRexx Debugger](https://sourceforge.net/projects/oorexxdebugger/) - Graphical debugger for ooRexx applications.
 - [oorexxshell](https://jlfaucher.github.io/executor.master/demos/index.html) - Interactive shell and experimentation environment for ooRexx.
 - [Rexx Parser](https://rexx.epbcn.com/rexx-parser/) - Full Abstract Syntax Tree (AST) parser for Rexx, ooRexx and Executor.
+- [rexx-lint](https://github.com/shmuelmetz/rexx-lint) - Static-analysis linter for classic Rexx and ooRexx, built on the Rexx Parser AST.
 
 ### Editor Support
 
@@ -71,6 +72,8 @@ Open Object Rexx (ooRexx) is the open-source, object-oriented implementation of 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Cross-platform Java IDE.
   - [ooRexx Plugin for IntelliJ IDEA](https://sourceforge.net/projects/bsf4oorexx/files/Sandbox/aseik/ooRexxIDEA/GA/2.2.0/) - Dedicated plugin providing syntax highlighting and project support for ooRexx.
 - [JEdit](https://www.jedit.org/) - Includes native ooRexx syntax highlighting mode out of the box.
+- [Pygments](https://pygments.org/) - Generic syntax highlighter used by Sphinx, MediaWiki and many other tools.
+  - [pygments-extensions](https://github.com/shmuelmetz/pygments-extensions) - Add-on Pygments lexers for ooRexx (also NetRexx and PL/I), validated against real-world source.
 
 ### Language Interoperability
 
